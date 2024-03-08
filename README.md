@@ -9,8 +9,8 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Algorithm
 1. Import the required library and read the dataframe.
-2.Write a function computeCost to generate the cost function.
-3.Perform iterations og gradient steps with learning rate.
+2. Write a function computeCost to generate the cost function.
+3. Perform iterations og gradient steps with learning rate.
 4. Plot the Cost function using Gradient Descent and generate the required graph.
 
 ## Program:
@@ -63,7 +63,7 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+
 ![image](https://github.com/gpavana/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118787343/32ff2b34-dd4b-4b73-8ef0-57f7e75fcd79)
 
 ## Result:
